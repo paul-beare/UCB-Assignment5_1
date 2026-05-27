@@ -18,4 +18,4 @@ In preparing this report we first eliminated columns that had incomplete informa
 The main conclusions of our analysis are that we have found interesting insights regarding which customers accept certain types of coupons.  This allows us to make specific recommendations as to which campaigns our stakeholders should prepare, based on our model.
 
 As an example of the findings we include this figure showing the coupon acceptance matrix comparing the types of coupons issued and the distance from the current location of the driver to where to obtain the benefit.
-![alt text](\images\image.png)
+![alt text](images/image.png)
